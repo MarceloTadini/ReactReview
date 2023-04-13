@@ -6,6 +6,7 @@ import Cards from "./Cards"
 
 import reactLogo from './imagens/react.jfif'
 import nodeLogo from './imagens/node.jfif'
+import Counter from "./Counter";
 
 
 function App() {
@@ -29,6 +30,8 @@ function App() {
                     />
                 </Cards>
             </Content>
+            <Counter></Counter>
+
         </>
     )
 }
