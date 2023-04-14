@@ -30,7 +30,7 @@ function App() {
                     />
                 </Cards>
             </Content>
-            <Counter></Counter>
+            <Counter/>
 
         </>
     )
